@@ -1,2 +1,9 @@
-# TicTacToe
-TicTacToe game build using React js. 
+# Tic Tac Toe Game.
+
+### Tools and Technology Used :-
+
+#### React JS.
+
+#### ReactStrap.
+
+
